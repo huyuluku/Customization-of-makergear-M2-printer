@@ -1,0 +1,5 @@
+M2PY Move Tool:
+C:\Users\Lab414\Documents\M2PY-master\gui>python movement_tool.py
+
+M2PY GCode Tool:
+C:\Users\Lab414\Documents\M2PY-master\gui>python movement_tool.py
